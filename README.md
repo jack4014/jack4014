@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jack
-- 👀 I’m interested in Video games, Game Development and Tech Support
+
 
 
 <!---
